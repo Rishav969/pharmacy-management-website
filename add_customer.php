@@ -21,6 +21,7 @@
       <div class="container">
         <!-- header section -->
         <?php
+
           require "php/header.php";
           createHeader('handshake', 'Add Customer', 'Add New Customer');
           // header section end
